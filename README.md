@@ -1,5 +1,5 @@
 
-# Snake-
+# Snake
 
 This is a game called Snake that involves the user moving around a snake object in trying to eat different food particles. The project is programmed in Java. 
 
